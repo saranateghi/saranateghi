@@ -3,7 +3,7 @@
 I am a Javascript developer.
 
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / SQL
 
 
 - 🔭 I’m currently working on eFarda 
