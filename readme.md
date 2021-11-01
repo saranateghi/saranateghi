@@ -8,7 +8,7 @@ Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on eFarda 
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning React 
 
 - 📫 How to reach me: saranateghiii@gmail.com 
 
